@@ -1,38 +1,40 @@
-# 👋 Bienvenido al Reto 1
+# Reto 1 - Job listings with filtering
 
-**Para hacer este reto, necesitas una comprensión básica de React y Styled Components. Buscamos que logres evidenciar los conocimientos esenciales para realizar Aplicaciones de una sola página - SPA**
+## Bienvenido! 👋
 
-# 📝 Descripción General del Reto 1
+**Para realizar este desafío, necesitas tener una comprensión básica de React y Styled Components**
 
-El reto consiste en constuir un producto web teniendo como referencia un diseño previo y debes lograr que se parezca lo más posible al diseño que fue suministrado.
+## Descripción Básica del Reto
 
-El objetivo es usar CSS con componentes con Styled Components en el cual se ponga en práctica tus nociones de CSS y conocer distintas herramientas que permiten agilizar el diseño de tu producto web en React.
+Su desafío es diseñar la maqueta de esta página de listados de trabajos con filtrado y lograr que se parezca lo más posible al diseño.
 
-- [Styled Components](https://styled-components.com/)
+Ten en cuenta que solo debes realizar la maqueta, usando react y styled components.
+
+Sus usuarios deberían poder:
+
+- Ver cómo se ajusta el tamaño de los elementos según el tamaño de la pantalla de su dispositivo
+- Implementación de componentes en React
+- Implementación de Styled Components
 
 
-En la zona de **Recursos** vas a encontrar un enlace externo con los requerimientos de diseño y técnicos que debes cumplir para la entrega de este reto.
+## Dónde encontrar todo
 
-# 📚 Recursos
+Su tarea es construir el proyecto a los diseños dentro del directorio `/design`. Encontrará una versión móvil y otra de escritorio del diseño.
 
-[Recursos Reto 1](https://drive.google.com/drive/u/1/folders/1dk3NpAboBQYTIZFNbFbGgeARzC9-RPos) 
+Los diseños están en formato JPG estático. El uso de JPG significará que deberá usar su mejor criterio para estilos respecto a : `font-size`, `padding` and `margin`. 
 
-## 🚀 Desplegando tu proyecto
+Encontrará todos los activos necesarios en la carpeta `/images`. Los recursos ya están optimizados.
 
-Hay muchas formas de alojar su proyecto de forma gratuita, Algunas opciones son:
+También hay una guía de estilos `style-guide.md` que contiene la información que necesitará, como la paleta de colores y las fuentes.
+
+
+## Desplegando tu proyecto
+
+Hay muchas formas de alojar su proyecto de forma gratuita. Nuestros recomendados son:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
-- [Surge](https://surge.sh/)
 
-## ✅ Entrega del Reto 1
 
-Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
-
-1. Crear un `Issue` llamado **Entrega-Frontend-Sprint2-Reto1**
-2. Recuerda trabajar sobre este repositorio, es decir, toda la evidencia de código de la solución a este reto debe estar en tu carpeta **reto-1**
-3. Agregar en el `Issue` la documentación técnica de la manera en que le diste solución a tu reto.
-4. Generar la URL de despliegue y relacionarla en el `Issue` **Entrega-Frontend-Sprint2-Reto1**
-    
-
+**¡A crear un proyecto asombroso!** 🚀
